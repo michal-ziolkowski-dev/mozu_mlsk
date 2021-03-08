@@ -1,0 +1,75 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": []
+  },
+  "packageFolders": {
+    "/Users/michalziolkowski/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/michalziolkowski/Projekty/Private/MOZU_MLSK/MLSK.MOZU.Radio/Radio.Core/Radio.Core.csproj",
+      "projectName": "Radio.Core",
+      "projectPath": "/Users/michalziolkowski/Projekty/Private/MOZU_MLSK/MLSK.MOZU.Radio/Radio.Core/Radio.Core.csproj",
+      "packagesPath": "/Users/michalziolkowski/.nuget/packages/",
+      "outputPath": "/Users/michalziolkowski/Projekty/Private/MOZU_MLSK/MLSK.MOZU.Radio/Radio.Core/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/michalziolkowski/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsit/Infrastructure/_packaging/phoenix-dependencies/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsit/_packaging/phoenix/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsit/_packaging/test-phoenix/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsrdcloud/_packaging/remote-assistance/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsrdcloud/a2d747d3-6419-4d01-931a-52b0d729f04f/_packaging/app-remote-assistance-dependencies/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dgsrdcloud/a2d747d3-6419-4d01-931a-52b0d729f04f/_packaging/test-remote-assistance/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

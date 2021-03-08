@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio.Droid", "Radio.Droid\Radio.Droid.csproj", "{CE670FFD-F5E1-4736-9590-9EE84F8BA4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio.Core", "Radio.Core\Radio.Core.csproj", "{F29552C7-D0BA-4C49-803E-D66130D6BB0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE670FFD-F5E1-4736-9590-9EE84F8BA4E3}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{CE670FFD-F5E1-4736-9590-9EE84F8BA4E3}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{CE670FFD-F5E1-4736-9590-9EE84F8BA4E3}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{CE670FFD-F5E1-4736-9590-9EE84F8BA4E3}.Release|anycpu.Build.0 = Release|Any CPU
+		{F29552C7-D0BA-4C49-803E-D66130D6BB0E}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{F29552C7-D0BA-4C49-803E-D66130D6BB0E}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{F29552C7-D0BA-4C49-803E-D66130D6BB0E}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{F29552C7-D0BA-4C49-803E-D66130D6BB0E}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C5746AE-6672-4992-84B5-F6D69F05410B}
+	EndGlobalSection
+EndGlobal

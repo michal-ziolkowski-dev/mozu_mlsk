@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CE670FFD-F5E1-4736-9590-9EE84F8BA4E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Radio.Droid FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.ItemProperties.Radio.Core FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Radio.Core/Class1.cs">
+    <Files>
+      <File FileName="Radio.Droid/MainActivity.cs" Line="16" Column="10" />
+      <File FileName="Radio.Core/Class1.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MLSK.MOZU.Radio" expanded="True">
+            <Node name="Radio.Core" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="Radio.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
