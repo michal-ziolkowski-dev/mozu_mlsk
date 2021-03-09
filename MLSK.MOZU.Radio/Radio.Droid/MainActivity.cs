@@ -14,6 +14,7 @@ namespace Radio.Droid
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            //komentarz
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
