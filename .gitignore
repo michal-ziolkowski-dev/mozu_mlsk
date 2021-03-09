@@ -1,3 +1,7 @@
 MLSK.MOZU.Radio/Radio.Droid/obj
-MLSK.MOZU.Radio/Radio.Droid/obj/Debug/lp/26/jl/bin
-/.vs
+MLSK.MOZU.Radio/Radio.Droid/obj
+MLSK.MOZU.Radio/Radio.Droid/bin
+.vs
+# build
+[Oo]bj/
+[Bb]in/
