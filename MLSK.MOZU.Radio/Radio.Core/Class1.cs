@@ -8,7 +8,7 @@ namespace Radio.Core
 
         public void Main(string hello)
         {
-
+            System.Diagnostics.Debug.WriteLine("Hello World");
         }
 
     }
